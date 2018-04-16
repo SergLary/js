@@ -6,6 +6,8 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.0.0-beta.36",
+    "cordova-plugin-splashscreen": "^4.1.0",
+    "cordova-plugin-statusbar": "^2.3.0",
     "meteor-node-stubs": "^0.3.2"
   }
 }
